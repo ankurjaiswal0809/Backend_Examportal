@@ -8,7 +8,7 @@ public class ExamPortalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExamPortalApplication.class, args);
-		System.out.println("This is test new");
+		System.out.println("This is test new Portal");
 	}
 
 }
